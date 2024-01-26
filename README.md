@@ -11,10 +11,9 @@ Clone the Repository into a folder in your workspace. Either use the command lin
 
 ### Install Dependencies:
 The next step is to install the necessary dependencies which can be accomplished by running the following line in your command prompt:
-NOTE: Ensure your terminal is in the correct working directory. If not, then in your terminal run the following line assuming your folder name is 'scrabble-trainer':
-- cd scrabble-trainer
-Then run this in your terminal to download the necessary dependencies:
 - pip install -r requirements.txt
+NOTE: Ensure your terminal is in the correct working directory. If not, then in your terminal run the following line and replace 'your_file_path' with the path to your scrabble-trainer folder:
+- cd 'your_file_path'\scrabble -trainer
 
 ### Running the Program
 Open a command terminal and ensure the directory is in your scrabble_trainer folder, if not in your terminal run the following line:
