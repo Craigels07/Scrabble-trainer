@@ -17,9 +17,7 @@ NOTE: Ensure your terminal is in the correct working directory. If not, then in 
 - cd 'your_file_path'\scrabble -trainer
 
 ### Running the Program
-Open a command terminal and ensure the directory is in your scrabble_trainer folder, if not in your terminal run the following line:
-
-Then to execute the program:
+Open a command terminal and ensure the directory is in your scrabble-trainer folder, read the Note above to change directories. Then to execute the program:
 - python scrabble_trainer.py
 
 
