@@ -5,7 +5,8 @@ This project is intended to help eccentric Scrabble players enhance their vocabu
 The word list contains 370,000 words used to help prepare for Scrabble matches and is found here: https://github.com/dwyl/english-words/blob/master/words_alpha.txt. Note I do not own this list, I only made use of it to help train eccentric Scrabble players using this project.
 
 ## Getting Started
-This program is compiled using Python. Please ensure that you have Python installed on your machine. If not, you can download it here: https://www.python.org/downloads.
+This program is compiled using Python. Please ensure that you have Python installed on your machine. If not, you can download it here: https://www.python.org/downloads. During the installation process, ensure that you check the option 'Add python to PATH' or else the program will not be able to run.
+
 Clone the Repository into a folder in your workspace. Either use the command line shown below or download it as a Zip file in GitHub directly and unzip the folder.
 - git clone https://github.com/Craigels07/scrabble-trainer.git
   
