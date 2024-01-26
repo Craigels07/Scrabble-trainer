@@ -22,7 +22,7 @@ Open a command terminal and ensure the directory is in your scrabble-trainer fol
 
 Once the file has been executed the user is prompted with a message 'Enter a sentence:'. 
 ## Result of Running the Program
-For example, given the sentence 'Happy dog plays in the sun', the program may return 'havel dea pipal ir sky'
+For example, given the sentence 'Happy dog plays in the sun', the program may return 'havel dea pipal ir sky'. If you run the program again the output will be different.
 
 
 
