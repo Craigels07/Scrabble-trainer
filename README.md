@@ -8,17 +8,13 @@ The word list contains 370,000 words used to help prepare for Scrabble matches a
 This program is compiled using Python. Please ensure that you have Python installed on your machine. If not, you can download it here: https://www.python.org/downloads.
 Clone the Repository into a folder in your workspace. Either use the command line shown below or download it as a Zip file in GitHub directly and unzip the folder.
 - git clone https://github.com/Craigels07/scrabble-trainer.git
-
-### Install Dependencies:
-The next step is to install the necessary dependencies which can be accomplished by running the following line in your command prompt:
-- pip install -r requirements.txt
+  
+### Running the Program
+Open a command terminal and ensure the directory is in your scrabble-trainer folder, read the Note below to change directories. Then to execute the program:
+- python scrabble_trainer.py
 
 NOTE: Ensure your terminal is in the correct working directory. If not, then in your terminal run the following line and replace 'your_file_path' with the path to your scrabble-trainer folder:
 - cd 'your_file_path'\scrabble -trainer
-
-### Running the Program
-Open a command terminal and ensure the directory is in your scrabble-trainer folder, read the Note above to change directories. Then to execute the program:
-- python scrabble_trainer.py
 
 Once the file has been executed the user is prompted with a message 'Enter a sentence:'. 
 ## Result of Running the Program
