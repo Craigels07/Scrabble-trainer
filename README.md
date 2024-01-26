@@ -22,8 +22,8 @@ Once the file has been executed the user is prompted with a message 'Enter a sen
 For example, given the sentence **'Happy dog plays in the sun'**, the program may return **'havel dea pipal ir sky'**. If you run the program again the output will be different.
 
 ### Additional Examples
-
--
+- Rainy days don't last forever = redue dyed don't lanx furious
+- dabble in the art of scrabble = dunlap in tat avn ob shadchan
 
 
 
